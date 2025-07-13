@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif"](https://imgflip.com/memetemplate/479797359/Developer-Ban)  />
+<img align="right" height="150" src="https://imgflip.com/memetemplate/479797359/Developer-Ban"/>
 
 ###
 
