@@ -1,23 +1,8 @@
-# 💫 About Me:
-### 🧃 Just 15, but coding like it’s 2035  
-### 🐍 Python addict | Django lover | JS baby steps | Flutter explorer  
-### 🧠 Debugging life one line at a time  
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davut__ovez)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@davut__ovezov)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawut2010owezow@gmail.com)
-
----
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+### 👤 WHOAMI
+- 🧃 Just 15, but coding like it’s 2035  
+- 🐍 Python addict | Django lover | JS baby steps | Flutter explorer  
+- 🌱 I’m currently learning **Go**, **Flutter**  
+- 📫 How to reach me: [dawut2010owezow@gmail.com](mailto:dawut2010owezow@gmail.com)
 
 ---
 
@@ -26,24 +11,26 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DavutOvez&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavutOvez&show_icons=true&theme=radical&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&theme=merko&hide_border=false&layout=compact&langs_count=6" height="150"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DavutOvez&theme=merko&hide_border=false" height="150" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&layout=compact&show_icons=true&theme=radical&langs_count=8" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔝 Top Contributed Repo:
-<img src="https://github-contributor-stats.vercel.app/api?username=DavutOvez&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<h2 align="center">Thanks for visiting ❤️</h2>
+
+<p align="center">Counting of visitors to this page started from <strong>July 14, 2025</strong></p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@DavutOvez-counter" alt="DavutOvez visitor counter" />
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github.com/BEPb/BEPb/raw/main/assets/Bottom_down.svg" alt="decorative bottom" />
+</p>
