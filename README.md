@@ -1,48 +1,49 @@
-<h2 align="left">Hi 👋! My name is Davut and I'm a 15-year-old self-taught developer from Turkmenistan 🇹🇲</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavutOvez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavutOvez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://imgflip.com/memetemplate/479797359/Developer-Ban"/>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:dawut2010owezow@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/davut__ovez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
+# 💫 About Me:
 ### 🧃 Just 15, but coding like it’s 2035  
 ### 🐍 Python addict | Django lover | JS baby steps | Flutter explorer  
-### 🧠 Debugging life one line at a time
+### 🧠 Debugging life one line at a time  
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davut__ovez)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@davut__ovezov)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawut2010owezow@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DavutOvez&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&theme=merko&hide_border=false&layout=compact&langs_count=6" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DavutOvez&theme=merko&hide_border=false" height="150" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔝 Top Contributed Repo:
+<img src="https://github-contributor-stats.vercel.app/api?username=DavutOvez&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
