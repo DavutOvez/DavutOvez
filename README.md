@@ -1,4 +1,4 @@
-### 👤 WHOAMI
+### WHOAMI
 - 🧃 Just 15, but coding like it’s 2035  
 - 🐍 Python addict | Django lover | JS baby steps | Flutter explorer    
 - 📫 How to reach me: [dawut2010owezow@gmail.com](mailto:dawut2010owezow@gmail.com)
