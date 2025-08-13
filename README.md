@@ -15,7 +15,9 @@
     <td>
       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&layout=compact&show_icons=true&theme=radical&langs_count=8" />
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img height="170em" src="https://streak-stats.demolab.com?user=DavutOvez&theme=radical" />
     </td>
   </tr>
