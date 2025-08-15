@@ -9,7 +9,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40davut__ovez-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/davut__ovez)
 [![TikTok](https://img.shields.io/badge/TikTok-%40davut.ovez-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@davut.ovez)
 
+
 ---
+
+<p align="center">
+  <b><i>"Stay hungry, stay foolish." – Steve Jobs</i></b>
+</p>
+
+---
+
+
 
 ## 📊 GitHub Stats:
 
@@ -33,10 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DavutOvez&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
+
 
 ---
 
