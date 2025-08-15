@@ -1,37 +1,45 @@
-### WHOAMI
-- 🧃 Just 15, building cool stuff with code  
-- 🐍 Python addict | Django lover | JS baby steps | Flutter explorer    
-- 📫 Reach me: [dawut2010owezow@gmail.com](mailto:dawut2010owezow@gmail.com)
+## 👨‍💻 WHOAMI
+- 🧃 15 y/o, passionate about building cool stuff with code  
+- 🐍 Python addict | 🌐 Django enthusiast  
+- 📜 Exploring JavaScript | 📱 Flutter learner   
+
+📫 **Reach me:**
+
+[![Email](https://img.shields.io/badge/Email-dawut2010owezow%40gmail.com-red?style=flat&logo=gmail)](mailto:dawut2010owezow@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40davut__ovez-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/davut__ovez)
+[![TikTok](https://img.shields.io/badge/TikTok-%40davut.ovez-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@davut.ovez)
 
 ---
 
 ## 📊 GitHub Stats:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=DavutOvez&show_icons=true&theme=radical&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&layout=compact&show_icons=true&theme=radical&langs_count=8" />
-</div>
-
-<div align="center">
-  <img height="180px" src="https://streak-stats.demolab.com?user=DavutOvez&theme=radical" />
-</div>
-
 <p align="center">
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DavutOvez&show_icons=true&theme=radical&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavutOvez&layout=compact&theme=radical&langs_count=8" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=DavutOvez&theme=radical" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+</p>
+
+---
 
 <h2 align="center">Thanks for visiting ❤️</h2>
 
-<p align="center">Counting of visitors to this page started from <strong>July 14, 2025</strong></p>
+<p align="center">Counting visitors since <strong>July 14, 2025</strong></p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@DavutOvez-counter" alt="DavutOvez visitor counter" />
-</p>
+<p align="center"> <img src="https://count.getloli.com/get/@DavutOvez-counter" alt="DavutOvez visitor counter" /> </p>
 
 ---
 
