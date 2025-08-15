@@ -33,6 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DavutOvez&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
 <h2 align="center">Thanks for visiting ❤️</h2>
