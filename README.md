@@ -7,7 +7,6 @@
 
 [![Email](https://img.shields.io/badge/Email-dawut2010owezow%40gmail.com-red?style=flat&logo=gmail)](mailto:dawut2010owezow@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%40davut__ovez-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/davut__ovez)
-[![TikTok](https://img.shields.io/badge/TikTok-%40davut.ovez-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@davut.ovez)
 
 
 ---
